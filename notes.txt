@@ -1,0 +1,9 @@
+pip install opencv-python
+
+https://www.youtube.com/watch?v=wH93NtRspEE
+python --version
+pip install mediapipe
+
+pip install numpy
+
+python main.py
